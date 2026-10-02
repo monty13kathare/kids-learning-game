@@ -1,0 +1,26 @@
+{
+  "name": "KidsPlay - Fun Learning & Games",
+  "short_name": "KidsPlay",
+  "description": "Mobile-first playful educational learning app for kids with Alphabets, Numbers, Tracing, Word Building, Matching games, and streaks!",
+  "start_url": "/",
+  "id": "/",
+  "display": "standalone",
+  "background_color": "#FAF6ED",
+  "theme_color": "#FAF6ED",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/avatar_alex.jpg",
+      "sizes": "192x192 512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["education", "kids", "games"]
+}
